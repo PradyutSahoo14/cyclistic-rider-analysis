@@ -1,4 +1,7 @@
-🚲 Cyclistic Data Integration, Cleaning & Bike Usage Analysis
+🚲 Cyclistic Data Integration
+Cleaning & Bike Usage Analysis
+
+
 📌 Project Overview
 This project explores Cyclistic bike-sharing service data by integrating large CSV files, cleaning and transforming them with Python, and performing SQL-based analysis to uncover usage patterns between annual members and casual riders.
 
